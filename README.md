@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Temmy</h1>
-<h3 align="center">A passionate engineering and technology enthusiast</h3>
+<h3 align="center">Behold, the chronicles of Temmy, the Conqueror of Circuits, the Mastermind of Machines! With a gaze that pierces code and a touch that sparks innovation, I forge empires of hardware and orchestrate symphonies of software. Fear not, for my conquest seeks not lands, but the boundless frontiers of technology. Join me, and let us sculpt the future together.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hkZnAxZHdicDFzYTZrYnhlNmptcjQ3cjV4b2lvOHFlYzhwZm44cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
