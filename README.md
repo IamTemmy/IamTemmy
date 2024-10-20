@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 🤝 I’m looking for help with **AI and App development**
+- 🌱 Intersted in **AI and Embeeded systems**
 
 <p align="left">
 </p>
