@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Temmy</h1>
-<h3 align="center">The 'F' in Engineering stands for "Fun", so enjoy!</h3>
+<h3 align="center">The 'F' in Engineering stands for "Fun"</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hkZnAxZHdicDFzYTZrYnhlNmptcjQ3cjV4b2lvOHFlYzhwZm44cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
