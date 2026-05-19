@@ -5,11 +5,11 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hkZnAxZHdicDFzYTZrYnhlNmptcjQ3cjV4b2lvOHFlYzhwZm44cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtemmy&label=Minds%20In%20The%20Matrix&color=0e75b6&style=flat" alt="iamtemmy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtemmy&label=Matrix&color=0e75b6&style=flat" alt="iamtemmy" /> </p>
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 🌱 Intersted in **AI and Embeeded systems**
+- 🌱 Intersted in **AI and Embedded systems**
 
 <p align="left">
 </p>
