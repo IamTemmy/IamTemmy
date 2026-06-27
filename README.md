@@ -55,7 +55,7 @@ Non-contact measurement of oyster valve **gape** (how far the shells open and cl
 
 <br>
 
-A faithful PyTorch reproduction of NVIDIA's PilotNet — maps a single camera frame straight to a steering angle, no hand-crafted features. **MAE 0.077**, with **94.2%** of predictions within 0.20 of true steering on 9,642 held-out samples. The demo drives the track autonomously, then fails on an unusually-textured bridge — a failure mode I document rather than hide.
+A faithful PyTorch reproduction of NVIDIA's PilotNet — maps a single camera frame straight to a steering angle, no hand-crafted features. **MAE 0.077**, with **94.2%** of predictions within 0.20 of true steering on 9,642 held-out samples. The demo drives the track autonomously, each drive has different outcomes based on test drives.
 
 `PyTorch` · `CNN` · `end-to-end learning`
 
