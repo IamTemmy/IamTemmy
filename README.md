@@ -31,7 +31,7 @@ Every system I build runs the same cycle — **sense → decide → act → veri
 
 A self-contained device that keeps a basil plant alive on its own — senses soil moisture, air, and light, waters a metered dose **only when the soil needs it**, and verifies each watering had an effect. Runs the grow light on a daily photoperiod and degrades safely, so it can be left unattended.
 
-> **Log ·** built for the failure paths, not just the happy one — invalid sensor data halts watering, and WiFi/MQTT loss is non-fatal (the controller keeps running locally). A Pi-side watchdog plus an MQTT Last-Will detect when the device drops offline and grey out stale readings.
+> **Log ·** a 12-hour gap in the grow-light's power chart, caught from telemetry alone: an `uptime: 6s` reading right after the plug's MQTT last-will proved a hard reboot, not a network blip — and Shelly relays default to OFF on boot. Fixed with "Restore last state." Root cause (mains glitch vs. the plug's own watchdog) stays undetermined — mitigation isn't explanation.
 
 `ESP32-WROVER` · `MQTT (Mosquitto)` · `Raspberry Pi 4` · `SQLite · Streamlit` · `closed-loop control`
 
