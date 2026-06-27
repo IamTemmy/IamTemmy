@@ -65,11 +65,7 @@ A faithful PyTorch reproduction of NVIDIA's PilotNet — maps a single camera fr
 
 ### Current system
 
-<p align="center">
-  <img src="telemetry.png" alt="Live telemetry — plant-autonomy-testbed" width="100%">
-</p>
-
-🟢 `plant-autonomy-testbed` — closed-loop watering, telemetry over MQTT → Raspberry Pi (SQLite + Streamlit), over Tailscale. The card above is a live snapshot, pushed from the Pi.
+🟢 **RUNNING** &nbsp; `plant-autonomy-testbed` — closed-loop watering, telemetry over MQTT to a Raspberry Pi (SQLite + Streamlit), monitored over Tailscale
 
 **Currently investigating:** *How much can an embedded system actually understand about the world it's sensing?*
 
