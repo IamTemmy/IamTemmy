@@ -2,13 +2,9 @@
   <img src="banner.gif" alt="Temiloluwa Adesola — from circuits to systems" width="100%">
 </p>
 
-# Temiloluwa Adesola
-
 `ELECTRICAL & EMBEDDED ENGINEER · M.S. EE, Jackson State`
 
 > I build hardware that **senses the physical world, decides, and acts** — then I measure whether it actually worked.
-
-`> from circuits to systems_`
 
 `embedded` · `sensors & signal` · `control` · `edge ML` · `validation`
 
