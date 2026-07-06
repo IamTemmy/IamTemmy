@@ -18,7 +18,7 @@ Every system I build runs the same cycle — **sense → decide → act → veri
   <img src="operating_loop_signature.gif" alt="Sense → Decide → Act → Verify" width="100%">
 </p>
 
-> *The best engineer isn't the one who avoids failure. It's the one who documents it.*
+> *"Engineering doesn't give you confidence before you begin. You earn it after—after the confusion, the mistakes, the same test run again and again, and finally understanding one more piece than you did yesterday." - Temmy*
 
 ---
 
@@ -55,7 +55,7 @@ Non-contact measurement of oyster valve **gape** (how far the shells open and cl
 
 <br>
 
-A faithful PyTorch reproduction of NVIDIA's PilotNet — maps a single camera frame straight to a steering angle, no hand-crafted features. **MAE 0.077**, with **94.2%** of predictions within 0.20 of true steering on 9,642 held-out samples. The demo drives the track autonomously, each drive has different outcomes based on each test run.
+A faithful PyTorch reproduction of NVIDIA's PilotNet — maps a single camera frame straight to a steering angle, no hand-crafted features. **MAE 0.077**, with **94.2%** of predictions within 0.20 of true steering on 9,642 held-out samples. The demo drives the track autonomously, then fails on an unusually-textured bridge — a failure mode I document rather than hide.
 
 `PyTorch` · `CNN` · `end-to-end learning`
 
