@@ -87,7 +87,7 @@ A faithful PyTorch reproduction of NVIDIA's PilotNet — maps a single camera fr
 
 ### Reach me
 
-📍 Jackson, MS &nbsp;·&nbsp; open to **embedded / hardware / firmware / test** roles
+&nbsp;·&nbsp; open to **embedded / hardware / firmware / test** roles
 
 [LinkedIn](https://www.linkedin.com/in/temiloluwaadesola) &nbsp;·&nbsp; [Email](mailto:temmyadesola01@gmail.com)
 
