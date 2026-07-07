@@ -18,7 +18,7 @@ Every system I build runs the same cycle — **sense → decide → act → veri
   <img src="operating_loop_signature.gif" alt="Sense → Decide → Act → Verify" width="100%">
 </p>
 
-> *"Engineering doesn't give you confidence before you begin. You earn it after—after the confusion, the mistakes, the same test run again and again, and finally understanding one more piece than you did yesterday." - Temmy*
+> *"Engineering doesn't give you confidence before you begin. You earn it after—after the confusion, the mistakes, the same test run again and again, and finally understanding one more piece than you did yesterday." *
 
 ---
 
