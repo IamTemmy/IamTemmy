@@ -6,7 +6,7 @@
 
 > I build hardware that **senses the physical world, decides, and acts** — then I measure whether it actually worked.
 
-`embedded` · `sensors & signal` · `control` · `edge ML` · `validation`
+`embedded` · `sensors & signal` · `control` · `edge ML` · `validation` · `prompt engineering`
 
 ---
 
