@@ -1,4 +1,4 @@
-# Hi, I'm Temmy.
+# Temmy.
 
 **Electrical & Computer Engineer**
 
