@@ -60,4 +60,4 @@ A faithful PyTorch reproduction of NVIDIA's PilotNet: one forward-facing camera 
 
 > *“Engineering doesn't give you confidence before you begin. You earn it after—after the confusion, the mistakes, the same test run again and again, and finally understanding one more piece than you did yesterday.”*
 >
-> — **Temmy**
+>  **Temmy**
