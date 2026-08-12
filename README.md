@@ -15,7 +15,7 @@ I'm working toward a career across **hardware, product, and systems engineering*
 <td width="33.33%" valign="top">
 
 <a href="https://github.com/IamTemmy/plant-autonomy-testbed">
-  <img src="https://raw.githubusercontent.com/IamTemmy/plant-autonomy-testbed/main/docs/images/dashboard-watering.png" alt="Plant Autonomy Testbed watering dashboard" width="100%">
+  <img src="assets/featured/plant-autonomy.png" alt="Plant Autonomy Testbed watering telemetry" width="100%">
 </a>
 
 ### [Plant Autonomy Testbed](https://github.com/IamTemmy/plant-autonomy-testbed)
@@ -28,7 +28,7 @@ A self-contained system that senses soil, air, and light, controls watering and 
 <td width="33.33%" valign="top">
 
 <a href="https://github.com/IamTemmy/Oyster_gape">
-  <img src="https://raw.githubusercontent.com/IamTemmy/Oyster_gape/main/docs/demo.gif" alt="Oyster Gape Monitoring bench demo" width="100%">
+  <img src="assets/featured/oyster-gape.gif" alt="Oyster Gape Monitoring live bench demo" width="100%">
 </a>
 
 ### [Oyster Gape Monitoring](https://github.com/IamTemmy/Oyster_gape)
@@ -41,7 +41,7 @@ A Hall-effect sensing system that turns oyster valve motion into **calibrated ph
 <td width="33.33%" valign="top">
 
 <a href="https://github.com/IamTemmy/pilotnet-reproduction">
-  <img src="https://raw.githubusercontent.com/IamTemmy/pilotnet-reproduction/main/results/training_curves.png" alt="PilotNet training curves" width="100%">
+  <img src="assets/featured/pilotnet.png" alt="PilotNet training curves" width="100%">
 </a>
 
 ### [PilotNet Reproduction](https://github.com/IamTemmy/pilotnet-reproduction)
