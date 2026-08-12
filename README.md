@@ -8,7 +8,7 @@ I'm working toward a career across **hardware, product, and systems engineering*
 
 ---
 
-## ⭐ Featured work
+## Featured work
 
 <table>
 <tr>
